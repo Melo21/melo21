@@ -16,5 +16,4 @@ Welcome to my [portfolio](https://github.com/Melo21/portfolio), where I showcase
 - Visualization: Tableau, Looker
 
 ## 🖇 Connect with Me
-<br>
 - [LinkedIn](https://www.linkedin.com/in/melodywongk/)
