@@ -13,7 +13,7 @@ Welcome to my [portfolio](https://github.com/Melo21/portfolio), where I showcase
 - Database: Google BigQuery, PostgreSQL, MySQL, Snowflake
 - Visualization: Tableau, Looker
 - Product Analytics: MixPanel, Pendo, Heap
-- CRM Tools: Jira, Zendesk
+- CRM Tools: Jira, Zendesk, Salesforce
 
 ## 🖇 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/melodywongk/)
