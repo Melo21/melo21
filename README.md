@@ -1,9 +1,8 @@
 # 👋 Hello, I'm Mel.  
-I am a dedicated Analyst with a demonstrated history of leveraging data to drive business success. Proficient in data analysis, A/B testing, and adeptly implementing processes to enable rapid scale and sustainable growth. Notably, I created and implemented an A/B dashboard to enhance product release quality by 34%, resulting in improved customer loyalty and retention. I have expertise in data analysis, reporting, query optimization, and database design.
+I am a dedicated Analyst with a demonstrated history of leveraging data to drive business success. Proficient in data analysis, A/B testing, and adeptly implementing processes to enable rapid scale and sustainable growth. I have expertise in data analysis, reporting, query optimization, and database design.
 
-- Querying data using SQL.
-- Generate reports and perform ad-hoc data analysis using SQL.
-- Developing dashboards on Tableau and Looker.
+# 👀 What makes me different from other analysts?
+Coming from a management background, I thrive on dissecting large, complex problems, breaking them down into manageable pieces, and crafting actionable strategies for success. My ability to draw out meticulous plans and execute them efficiently sets me apart in the world of data analysis. I'm not just about crunching numbers; I'm about translating data into meaningful actions that drive business triumph. Explore my portfolio and witness the power of strategic data analysis.
 
 ## 📚 Projects
 Welcome to my [portfolio](https://github.com/Melo21/portfolio), where I showcase my projects.
