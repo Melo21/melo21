@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Mel.  
 I am a dedicated Analyst with a demonstrated history of leveraging data to drive business success. Proficient in data analysis, A/B testing, and adeptly implementing processes to enable rapid scale and sustainable growth. I have expertise in data analysis, reporting, query optimization, and database design.
 
-# 👀 What makes me different from other analysts?
+# 👀 What makes me different?
 
 - **Management Roots:** With a background in management, I excel at crafting and executing meticulous plans.
 - **Complex Problem Solver:** I thrive on tackling large, complex problems, dissecting them piece by piece.
