@@ -1,4 +1,5 @@
-Hello, I'm Mel. Data Analyst/Product Analyst with expertise in data analysis and reporting, query optimization, and database design.
+Hello, I'm Mel. I am a dedicated Analyst with a demonstrated history of leveraging data to drive business success. Proficient in data analysis, A/B testing, and adeptly implementing processes to enable rapid scale and sustainable growth. Notably, I created and implemented an A/B dashboard to enhance product release quality by 34%, resulting in improved customer loyalty and retention. I have expertise in data analysis, reporting, query optimization, and database design.
+
 <br>
 - Querying data using SQL.
 - Generate reports and perform ad-hoc data analysis using SQL.
