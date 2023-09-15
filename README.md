@@ -3,7 +3,7 @@ I am a dedicated Analyst with a demonstrated history of leveraging data to drive
 
 # 👀 What makes me different from other analysts?
 
-- **Management Roots: **With a background in management, I excel at crafting and executing meticulous plans.
+- **Management Roots: ** With a background in management, I excel at crafting and executing meticulous plans.
 - **Complex Problem Solver:** I thrive on tackling large, complex problems, dissecting them piece by piece.
 - **Action-Oriented:** My strength lies in turning data insights into actionable strategies for success.
 - **Data to Results:** I'm not just about crunching numbers; I transform data into impactful business outcomes.
