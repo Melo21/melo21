@@ -17,4 +17,4 @@ Welcome to my [portfolio](https://github.com/Melo21/portfolio), where I showcase
 
 👋🏻 Connect with Me
 <br>
--[LinkedIn](https://www.linkedin.com/in/melodywongk/)
+- [LinkedIn](https://www.linkedin.com/in/melodywongk/)
