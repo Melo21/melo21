@@ -6,7 +6,6 @@ I am a dedicated Analyst with a demonstrated history of leveraging data to drive
 - Developing dashboards on Tableau and Looker.
 
 ## 📚 Projects
-<br>
 Welcome to my [portfolio](https://github.com/Melo21/portfolio), where I showcase my projects.
 
 ## 🛠️ Tools
