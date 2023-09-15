@@ -9,9 +9,11 @@ I am a dedicated Analyst with a demonstrated history of leveraging data to drive
 Welcome to my [portfolio](https://github.com/Melo21/portfolio), where I showcase my projects.
 
 ## 🛠️ Tools
-- Language: SQL, Python
-- Database: Google BigQuery, PostgreSQL, MySQL
+- Language: SQL, Python, HTML, SIL
+- Database: Google BigQuery, PostgreSQL, MySQL, Snowflake
 - Visualization: Tableau, Looker
+- Product Analytics: MixPanel, Pendo, Heap
+- CRM Tools: Jira, Zendesk
 
 ## 🖇 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/melodywongk/)
