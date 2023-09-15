@@ -14,5 +14,4 @@ Database: Google BigQuery, PostgreSQL, MySQL
 Visualization: Tableau, Looker
 
 👋🏻 Connect with Me
-
-[LinkedIn](https://www.linkedin.com/in/melodywongk/).
+[LinkedIn](https://www.linkedin.com/in/melodywongk/)
