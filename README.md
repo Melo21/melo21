@@ -10,7 +10,6 @@ I am a dedicated Analyst with a demonstrated history of leveraging data to drive
 Welcome to my [portfolio](https://github.com/Melo21/portfolio), where I showcase my projects.
 
 ## 🛠️ Tools
-<br>
 - Language: SQL, Python
 - Database: Google BigQuery, PostgreSQL, MySQL
 - Visualization: Tableau, Looker
