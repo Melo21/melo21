@@ -22,4 +22,4 @@ Welcome to my [portfolio](https://github.com/Melo21/portfolio), where I showcase
 - CRM Tools: Jira, Zendesk, Salesforce
 
 ## 🖇 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/melodywongk/)
+
